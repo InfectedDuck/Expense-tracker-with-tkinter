@@ -19,25 +19,13 @@ Expense Tracker is a Python GUI application designed to help users manage their 
 
 ## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd expense-tracker
-   ```
-
-3. Install the required dependencies:
+1. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the application:
+2. Run the application:
 
    ```bash
    python expense_tracker.py
