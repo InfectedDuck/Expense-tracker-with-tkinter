@@ -1,0 +1,8 @@
+# Requirements
+
+To run the Expense Tracker application, ensure you have the following dependencies installed:
+You can install these dependencies using pip, Python's package installer. Run the following command:
+
+```bash
+pip install -r requirements.txt
+You can copy this Markdown code and save it as `requirements.md` in your project repository. Make sure to replace `<version>` with the actual version numbers of `tkinter` and `matplotlib` that your application needs.
