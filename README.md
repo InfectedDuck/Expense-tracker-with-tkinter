@@ -41,6 +41,8 @@ Expense Tracker is a Python GUI application designed to help users manage their 
 6. Visualize spending by clicking "Visualize Spending."
 7. Set and track your budget by entering a budget amount.
 
+## Caution
+If the application becomes unresponsive and you cannot type into the textboxes, press the "Random" button to restore functionality. If the "Visualize Spending" button is not visible, please wait a moment or click the small line at the bottom of the application to display it.
 
 ## License
 
