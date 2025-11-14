@@ -44,4 +44,9 @@ Expense Tracker is a Python GUI application designed to help users manage their 
 ## Caution
 If the application becomes unresponsive and you cannot type into the textboxes, press the "Random" button to restore functionality. If the "Visualize Spending" button is not visible, please wait a moment or click the small line at the bottom of the application to display it.
 
+## License
 
+This project is licensed under the MIT License.  
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the terms of the MIT License.  
+
+For full details, see the [LICENSE](LICENSE) file.
